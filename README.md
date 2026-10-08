@@ -1,0 +1,1 @@
+hola alumnos del tesh, es el primer commit para gregar el Readme al repositorio
